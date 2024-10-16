@@ -12,4 +12,7 @@ The pipeline consysts of the following steps:
 
 ![e4ea0d_815f03b30da64e4789d9d6e58f945d8bmv2](https://github.com/user-attachments/assets/a568e705-6bce-4368-b4f7-19d9b351954b)
 
+![image](https://github.com/user-attachments/assets/fafcbab9-b5f3-49f5-be8c-25c54da07462)
+
+
 
